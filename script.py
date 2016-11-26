@@ -10,10 +10,12 @@ proxyDict = {
               }
 
 
-url = '###'
+#Replace <access_token> with your access token from https://developers.facebook.com/tools/explorer/145634995501895?method=GET&path=me%2Finbox&version=v2.2
+url = 'https://graph.facebook.com/v2.2/me/inbox?access_token=<access_token>'
 
 threadid = 0
 
+# User ID/Profile ID of the person
 userId = ####
 
 first = True
