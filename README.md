@@ -11,11 +11,6 @@ Then start running the script with `python script.py`
 
 The required conversation ID is printed if the conversation has been initiated before.
 
-The final script is :
-
-<script src="https://gist.github.com/Sunil02324/6248ffaf6ee139535fafccc4035c1f0d.js"></script>
-
-
 ---
 
 ###Sample :
